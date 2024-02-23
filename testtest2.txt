@@ -1,6 +1,5 @@
 
-set para2=()
-foreach y ( `seq 1 1 5` )
+
 para2=ps$y
 set para2=($para2:q "last")
 echo $para2
