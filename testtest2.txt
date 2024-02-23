@@ -1,11 +1,3 @@
-set para2= ( PS5 PS4 PS3 PS2 PS1 )
-foreach y ( `seq 1 1 5` )
-echo $para2[$y]
-end
-
-
-set para2= ( PS5 PS4 PS3 PS2 PS1 )
-set autolist
 
 set para2=()
 foreach y ( `seq 1 1 5` )
