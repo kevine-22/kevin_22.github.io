@@ -1,4 +1,4 @@
-test again 33
+test again 55 
 para2=ps$y
 set para2=($para2:q "last")
 echo $para2
